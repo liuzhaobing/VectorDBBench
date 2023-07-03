@@ -1,7 +1,7 @@
 import logging
 import pathlib
 from datetime import date
-from typing import Self
+from typing_extensions import Self
 from enum import Enum
 
 import ujson
